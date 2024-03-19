@@ -1,15 +1,8 @@
-- 👋 Hi, I’m @gagan306
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-gagan306/gagan306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <img src="https://raw.githubusercontent.com/gagan306/gagan306/output/snake.svg" alt="Snake animation" />
 
 ###
+
+- 👋 Hi, I’m gagan bhusal
+- 🌱 I’m currently learning MERN stack
+
+
